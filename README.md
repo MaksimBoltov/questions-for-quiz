@@ -1,4 +1,7 @@
 # Questions
+[![codecov](https://codecov.io/gh/MaksimBoltov/questions-for-quiz/branch/main/graph/badge.svg?token=UQJ0T5UYZI&style=plastic)](https://codecov.io/gh/MaksimBoltov/questions-for-quiz)
+
+#### Краткое описание:
 Проект предоставляет один простой интерфейс для добавления комментариев в базу данных.
 
 #### Стэк технологий:
